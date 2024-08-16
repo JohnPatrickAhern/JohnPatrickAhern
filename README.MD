@@ -1,8 +1,19 @@
-## Hey 👋, This is John Patrick Ahern
-[![Gmail Badge](https://img.shields.io/badge/-jpa091991@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jpa091991@gmail.com)](mailto:jpa091991@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-John Patrick Ahern-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/John Patrick Ahern/)](https://www.linkedin.com/in/John Patrick Ahern/) [![Github Badge](https://img.shields.io/badge/-John Patrick Ahern-grey?style=flat&logo=github&logoColor=white&link=https://github.com/John Patrick Ahern/)](https://www.github.com/John Patrick Ahern/) <p align='left'>A business professional with a decade of experience in inside sales, looking to contribute knowledge of business operations, data analysis, and strategic sales in a full-time business analyst role. With experience working with Excel, Power BI, and Tableau, translating complex data into business insights to drive business improvements and goals is done with ease.  From experience working in fast-paced environments, time has shaped a communicative, quick-learning, and inquisitive team player who’s always eager for opportunities involving both personal and business growth.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1tOxUo6s_tSx2p2XD7jJaSy02EP6678e0A2IBJ6K1vSI/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=John Patrick Ahern alt=John Patrick Ahern /> </p>
+<h1 align="center">Hi 👋, I'm JOHN PATRICK AHERN</h1>
+<h3 align="center">Business Analyst / Using Data to Leverage / Tableau, SQL, Excel / Table Tennis Enthusiast / Personal Chef</h3>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=John Patrick Ahern&show_icons=true&include_all_commits=true)](https://github.com/John Patrick Ahern/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John Patrick Ahern&layout=compact)](https://github.com/John Patrick Ahern/github-readme-stats)
+- 🔭 I’m currently working on [SUPERSTORE ACTIVITY](https://docs.google.com/spreadsheets/d/11G14lwV4PFN_SLjZ_1wkgZt1wg2ZehuS9q5HwlfV31A/edit?usp=sharing)
+
+- 🌱 I’m currently learning **ADVANCED TABLEAU VISUALS**
+
+- 👨‍💻 All of my projects are available at [https://foggy-snapper-ee8.notion.site/Resume-39eb5eea5f2e423ea12a73cb54b96431?pvs=4](https://foggy-snapper-ee8.notion.site/Resume-39eb5eea5f2e423ea12a73cb54b96431?pvs=4)
+
+- 📫 How to reach me **JPA091991@GMAIL.COM**
+
+- ⚡ Fun fact **I AM A 20 YEAR HIP-HOP EXPERT**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
